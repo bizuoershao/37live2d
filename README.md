@@ -15,13 +15,18 @@
 
 ----------------------------------------------------
 
-Live2D Cubism 4.2打开教程：
+## 下载方式：
+
+点击右上角绿色按钮“Code”，选择“Download ZIP”
+
+----------------------------------------------------
+## Live2D Cubism 4.2打开教程：
 
 打开 [官网](https://www.live2d.com/zh-CHS/download) 下载Live2D Cubism
 
 打开 CubismViewer4程序，选择本地打开，拖拽「三月七live2d model」文件夹中的「37」文件（.moc file格式）放入，静待加载完成
 
-操作：
+### 操作：
 
 	1.长按三月七的身体，拖拽转向【不要问我长按哪里（doge）】
   
@@ -31,7 +36,7 @@ Live2D Cubism 4.2打开教程：
 
 ----------------------------------------------------
 
-bilibililive 打开教程：
+## bilibililive 打开教程：
 
 打开 [官网](https://live.bilibili.com/liveHime) 下载bilibili直播姬
 
@@ -43,7 +48,7 @@ bilibililive 打开教程：
 
 完结撒花！
 
-PS：如何开启动捕：
+### 如何开启动捕？
 
 	点击左侧“驱动设置”，点击“开启面捕”
   
